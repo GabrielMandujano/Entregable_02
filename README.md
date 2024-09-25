@@ -1,1 +1,3 @@
-# Entregable_02
+# DISEÑO Y DESARROLLO DE APLICACIONES MÓVILES I
+## Gabriel Mandujano
+### SENATI
